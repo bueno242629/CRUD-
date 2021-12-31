@@ -1,0 +1,9 @@
+C:\Users\bueno\source\repos\PracticaCRUD\CapaDatos\bin\Debug\netcoreapp3.1\CapaDatos.deps.json
+C:\Users\bueno\source\repos\PracticaCRUD\CapaDatos\bin\Debug\netcoreapp3.1\CapaDatos.dll
+C:\Users\bueno\source\repos\PracticaCRUD\CapaDatos\bin\Debug\netcoreapp3.1\CapaDatos.pdb
+C:\Users\bueno\source\repos\PracticaCRUD\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\bueno\source\repos\PracticaCRUD\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.AssemblyInfo.cs
+C:\Users\bueno\source\repos\PracticaCRUD\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\bueno\source\repos\PracticaCRUD\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.dll
+C:\Users\bueno\source\repos\PracticaCRUD\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.pdb
+C:\Users\bueno\source\repos\PracticaCRUD\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.csproj.AssemblyReference.cache
